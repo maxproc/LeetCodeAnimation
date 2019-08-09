@@ -18,6 +18,7 @@
 | 1    | [两数之和](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第1号问题：两数之和.md) |
 | 2    | [两数相加](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第2号问题：两数相加.md) |
 | 3    | [无重复字符的最长子串](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第3号问题：无重复字符的最长子串.md) |
+| 9    | [回文数](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第9号问题：回文数.md) |
 | 15   | [三数之和](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第15号问题：三数之和.md) |
 | 19   | [删除链表的倒数第 N 个节点](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第19号问题：删除链表的倒数第N个节点.md) |
 | 20   | [有效的括号](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第20号问题：有效的括号.md) |
@@ -25,6 +26,8 @@
 | 23   | [合并 K 个排序链表](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第23号问题：合并K个排序链表.md) |
 | 24   | [两两交换链表中的节点](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第24号问题：两两交换链表中的节点.md) |
 | 26   | [删除排序数组中的重复项](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第26号问题：删除排序数组中的重复项.md) |
+| 38   | [报数](https://mp.weixin.qq.com/s/DKXJR8pNX3fKGvtSn0TEjw)    |
+| 66   | [加一](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第66号问题：加一.md) |
 | 75   | [颜色分类](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第75号问题：颜色分类.md) |
 | 86   | [分割链表](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第86号问题：分割链表.md) |
 | 92   | [反转链表 II](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第92号问题：反转链表II.md) |
@@ -44,11 +47,14 @@
 | 136  | [只出现一次的数字](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第136号问题：只出现一次的数字.md) |
 | 138  | [复制带随机指针](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第138号问题：复制带随机指针.md) |
 | 139  | [单词拆分](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第139号问题：单词拆分.md) |
+| 141  | [环形链表](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第141号问题：环形链表.md) |
 | 144  | [二叉树的前序遍历](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第144号问题：二叉树的前序遍历.md) |
 | 145  | [二叉树的后序遍历](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第145号问题：二叉树的后序遍历.md) |
 | 146  | [LRU缓存机制](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第146号问题：LRU缓存机制.md) |
 | 150  | [逆波兰表达式求值](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第150号问题：逆波兰表达式求值.md) |
+| 164  | [最大间距](https://mp.weixin.qq.com/s/xHxjCDdFZyCW2pnY6Cz8SQ) |
 | 167  | [两数之和 II - 输入有序数组](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第167号问题：两数之和II-输入有序数组.md) |
+| 169  | [求众数](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第169号问题：求众数.md) |
 | 172  | [阶乘后的零](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第172号问题：阶乘后的零.md) |
 | 187  | [重复的 DNA 序列](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第187号问题：重复的DNA序列.md) |
 | 191  | [位1的个数](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第191号问题：位1的个数.md) |
@@ -61,14 +67,17 @@
 | 231  | [2的幂](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第231号问题：2的幂.md) |
 | 237  | [删除链表中的节点](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第237号问题：删除链表中的节点.md) |
 | 239  | [滑动窗口最大值](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第239号问题：滑动窗口最大值.md) |
+| 268  | [缺失数字](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第268号问题：缺失数字.md) |
 | 279  | [完全平方数](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第279号问题：完全平方数.md) |
 | 283  | [移动零](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第283号问题：移动零.md) |
 | 295  | [数据流的中位数](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第295号问题：数据流的中位数.md) |
 | 301  | [删除无效的括号](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第301号问题：删除无效的括号.md) |
+| 319  | [灯泡开关](https://mp.weixin.qq.com/s/u35RGvT5Bc2o7jM-Uu_ZYA) |
 | 326  | [3 的幂](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第326号问题：3的幂.md) |
 | 328  | [奇偶链表](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第328号问题：奇偶链表.md) |
 | 342  | [4的幂](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第342号问题：4的幂.md) |
 | 344  | [反转字符串](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第344号问题：反转字符串.md) |
+| 347  | [前K个高频元素](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第347号问题：前K个高频元素.md) |
 | 349  | [两个数组的交集](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第349号问题：两个数组的交集.md) |
 | 350  | [两个数组的交集 II](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第350号问题：两个数组的交集II.md) |
 | 445  | [两数相加 II](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第445号问题：两数相加II.md) |
@@ -78,10 +87,8 @@
 | 690  | [员工的重要性](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第690号问题：员工的重要性.md) |
 | 877  | [石子游戏](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第877号问题：石子游戏.md) |
 
-
-
 ## 补充
-该仓库保持随时更新。
+**该仓库保持随时更新**。
 
 2018-12-29 说明：
 
@@ -89,13 +96,13 @@
 
 2018-12-07 说明：
 
-为了更好的做好LeetCode动画，笔者正在努力的学习更多的数据结构与算法。
+为了更好的做好 LeetCode 动画，笔者正在努力的学习更多的数据结构与算法。
 
 笔者目前正在写数据结构的文章与动画，将《动画图解数据结构》系列文章写完后将继续更新此仓库。
 
 邮箱：misterbigbooo@gmail.com
 
-喜欢就star❤️一下吧！
+喜欢就 star❤️ 一下吧！
 
 ## 和我交流
 
@@ -103,7 +110,8 @@
 
 | 二维码 |  说明 |
 | --- | ---  |
-|![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/blog/fz0rq.png) | 欢迎前来和程序员小吴一起学算法 |
+|![](https://raw.githubusercontent.com/MisterBooo/myBlogPic/master/20190711094817.png) | 欢迎前来和程序员小吴一起学算法 |
+|![](https://raw.githubusercontent.com/MisterBooo/myBlogPic/master/20190625171010.jpeg) | 扫描小程序阅读最新算法文章 |
 
 
 
